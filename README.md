@@ -1,16 +1,116 @@
-## Hi there 👋
-I’m Sumati Johri, a B.Tech CSE student (’29) who loves turning ideas into code 💻✨. I explore Machine Learning by building data-driven models and enjoy crafting clean, responsive web experiences 🌐. Curious by nature, I learn best by experimenting, building, and improving one project at a time 🤖📊.
-<!--
-**JohriSumati-ops/JohriSumati-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Sumati Johri  
 
-Here are some ideas to get you started:
+I’m a **B.Tech Computer Science Engineering student (’29)** with a strong interest in **Machine Learning** and a growing foundation in **Web Development**.  
+I enjoy building data-driven models, deploying them as interactive web applications, and continuously improving my skills through hands-on projects and real-world experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+### 🤖 AI/ML Intern — InternPe  
+Worked on machine learning projects involving data preprocessing, model building, and evaluation.  
+Gained practical experience in applying ML algorithms to real-world datasets and understanding end-to-end ML workflows.
+
+---
+
+### ✍️ Content Writer — WeDidIt  
+Created clear, engaging, and well-structured written content for digital platforms.  
+Developed strong communication skills and the ability to simplify complex ideas for diverse audiences.
+
+---
+
+### ✍️ Content Writer — InAmigos Foundation  
+Contributed content to support organizational initiatives and outreach efforts.  
+Enhanced research, storytelling, and collaborative writing skills while working in a team-oriented environment.
+
+---
+
+## 🚀 Projects
+
+### 🩺 Diabetes Predictor Model  
+A machine learning model that predicts the likelihood of diabetes based on medical data.  
+Explores multiple classification algorithms and evaluates performance using standard ML metrics.  
+
+🔗 Repository:  
+https://github.com/JohriSumati-ops/DIABETES-PREDICTOR-MODEL  
+
+---
+
+### 🎗️ Breast Cancer Prediction Web App  
+An ML-based web application that predicts whether a breast tumor is **benign or malignant** using clinical features.  
+The model is deployed using **Gradio**, with model persistence handled via **dill**.  
+
+🔗 Repository:  
+https://github.com/JohriSumati-ops/BREAST-CANCER-PREDICTOR  
+
+---
+
+### 🏏 IPL Win Probability Predictor  
+A sports analytics project that predicts the **win probability of an IPL match** based on match conditions such as runs, wickets, overs, and target score.  
+Deployed as an interactive **Gradio web app** for real-time predictions.  
+
+🔗 Repository:  
+https://github.com/JohriSumati-ops/IPL-TEAM-WIN-PREDICTION-MODEL  
+
+---
+
+### 🚗 Car Price Prediction Web App  
+An end-to-end machine learning project that predicts car selling prices using regression techniques.  
+Integrated with a **Streamlit web application** for real-time user input and predictions.  
+
+🔗 Repository:  
+https://github.com/JohriSumati-ops/CAR-PRICE-PREDICTOR-MODEL  
+
+---
+
+### 🍽️ Restaurant Website  
+A responsive front-end restaurant website built using modern web development practices.  
+Focused on clean UI design, structured layouts, and responsive behavior across devices.  
+
+🔗 Repository:  
+https://github.com/JohriSumati-ops/Restaurant-Website--web-development  
+
+---
+
+## 🧠 Skills
+
+### 💻 Programming & Development  
+- Python  
+- HTML, CSS, JavaScript  
+
+### 🤖 Machine Learning & Data Science  
+- Supervised Machine Learning (Classification & Regression)  
+- Data Preprocessing & Feature Engineering  
+- Model Evaluation (Accuracy, Precision, Recall, F1-Score, R², MAE, MSE)  
+
+### 🌐 Deployment & Tools  
+- Gradio  
+- Streamlit  
+- Model Serialization using `dill`  
+- Git & GitHub  
+
+### ✍️ Communication & Professional Skills  
+- Content Writing  
+- Critical Thinking  
+- English Proficiency (Spoken & Written)  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**  
+Computer Science Engineering (CSE)  
+Expected Graduation: **2029**
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques  
+- Model optimization & hyperparameter tuning  
+- ML model deployment best practices  
+- Building scalable ML-powered web applications  
+
+---
+
+📫 **Connect with me:**  
+LinkedIn: https://www.linkedin.com/in/sumati-johri-3223bb381/
