@@ -39,6 +39,9 @@ This project was built using a **no-code Agentic AI platform**, focusing on agen
 🔗 Live Agent Profile:  
 https://agent.ai/profile/pt5pkd2mnav9v292
 
+
+---
+
 ### 🩺 Diabetes Predictor Model  
 A machine learning model that predicts the likelihood of diabetes based on medical data.  
 Explores multiple classification algorithms and evaluates performance using standard ML metrics.  
