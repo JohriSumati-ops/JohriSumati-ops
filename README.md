@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m Sumati Johri, a B.Tech CSE student (’29) who loves turning ideas into code 💻✨. I explore Machine Learning by building data-driven models and enjoy crafting clean, responsive web experiences 🌐. Curious by nature, I learn best by experimenting, building, and improving one project at a time 🤖📊.
 <!--
 **JohriSumati-ops/JohriSumati-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
