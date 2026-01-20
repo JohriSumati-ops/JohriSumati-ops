@@ -19,6 +19,8 @@ This project was built using a **no-code Agentic AI platform**, focusing on agen
 🔗 Live Agent Profile:  
 https://agent.ai/profile/pt5pkd2mnav9v292
 
+🔗 Repository:
+https://github.com/JohriSumati-ops/AI-Career-Guidance-Agent.git
 
 ---
 
