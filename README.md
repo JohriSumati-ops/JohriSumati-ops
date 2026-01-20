@@ -5,26 +5,6 @@ I enjoy building data-driven models, deploying them as interactive web applicati
 
 ---
 
-## 💼 Experience
-
-### 🤖 AI/ML Intern — InternPe  
-Worked on machine learning projects involving data preprocessing, model building, and evaluation.  
-Gained practical experience in applying ML algorithms to real-world datasets and understanding end-to-end ML workflows.
-
----
-
-### ✍️ Content Writer — WeDidIt  
-Created clear, engaging, and well-structured written content for digital platforms.  
-Developed strong communication skills and the ability to simplify complex ideas for diverse audiences.
-
----
-
-### ✍️ Content Writer — InAmigos Foundation  
-Contributed content to support organizational initiatives and outreach efforts.  
-Enhanced research, storytelling, and collaborative writing skills while working in a team-oriented environment.
-
----
-
 ## 🚀 Projects
 
 ### 🤖 AI-Powered Career Guidance Agent (Agentic AI)
@@ -117,7 +97,25 @@ https://github.com/JohriSumati-ops/Restaurant-Website--web-development
 - Communication & Soft Skills (Strengthened by Agent AI Work)
 
 ---
+## 💼 Experience
 
+### 🤖 AI/ML Intern — InternPe  
+Worked on machine learning projects involving data preprocessing, model building, and evaluation.  
+Gained practical experience in applying ML algorithms to real-world datasets and understanding end-to-end ML workflows.
+
+---
+
+### ✍️ Content Writer — WeDidIt  
+Created clear, engaging, and well-structured written content for digital platforms.  
+Developed strong communication skills and the ability to simplify complex ideas for diverse audiences.
+
+---
+
+### ✍️ Content Writer — InAmigos Foundation  
+Contributed content to support organizational initiatives and outreach efforts.  
+Enhanced research, storytelling, and collaborative writing skills while working in a team-oriented environment.
+
+---
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech)**  
