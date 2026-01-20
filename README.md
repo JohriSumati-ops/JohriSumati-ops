@@ -27,6 +27,18 @@ Enhanced research, storytelling, and collaborative writing skills while working 
 
 ## 🚀 Projects
 
+### 🤖 AI-Powered Career Guidance Agent (Agentic AI)
+
+A smart, AI-powered guidance platform designed to help students after 12th grade explore suitable undergraduate courses based on their interests, academic background, and career aspirations.  
+The agent provides structured guidance, answers common academic doubts, and offers supportive responses to help reduce decision-related stress.
+
+This project was built using a **no-code Agentic AI platform**, focusing on agent logic design, prompt structuring, workflow configuration, and user experience rather than traditional programming.
+
+⭐ Rated 4.6/5 by users for clarity, usefulness, and relevance.
+
+🔗 Live Agent Profile:  
+https://agent.ai/profile/pt5pkd2mnav9v292
+
 ### 🩺 Diabetes Predictor Model  
 A machine learning model that predicts the likelihood of diabetes based on medical data.  
 Explores multiple classification algorithms and evaluates performance using standard ML metrics.  
