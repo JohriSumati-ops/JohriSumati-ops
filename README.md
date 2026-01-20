@@ -107,6 +107,13 @@ https://github.com/JohriSumati-ops/Restaurant-Website--web-development
 - English Proficiency (Spoken & Written)  
 
 ---
+### 🤖 Agentic AI & Applied AI Skills
+- AI Product & Problem-Solving Skills
+- No-Code / Low-Code AI Skills
+- Analytical & Thinking Skills
+- Communication & Soft Skills (Strengthened by Agent AI Work)
+
+---
 
 ## 🎓 Education
 
