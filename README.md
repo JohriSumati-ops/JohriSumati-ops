@@ -23,6 +23,12 @@ https://agent.ai/profile/pt5pkd2mnav9v292
 https://github.com/JohriSumati-ops/AI-Career-Guidance-Agent.git
 
 ---
+### 💳 Credit Card Fraud Detection System
+Detects fraudulent credit card transactions using supervised ML on imbalanced data.  
+Includes a Gradio-based web app with model persistence using dill.  
+🔗 https://github.com/...
+
+---
 
 ### 🩺 Diabetes Predictor Model  
 A machine learning model that predicts the likelihood of diabetes based on medical data.  
