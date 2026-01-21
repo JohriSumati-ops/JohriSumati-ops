@@ -28,7 +28,7 @@ Detects fraudulent credit card transactions using supervised ML on imbalanced da
 Includes a Gradio-based web app with model persistence using dill.  
 
 🔗 Repository:
-https://github.com/JohriSumati-ops/AI-Career-Guidance-Agent.git
+https://github.com/JohriSumati-ops/CREDIT-CARD-FRAUD-DETECTION
 
 ---
 ### 🩺 Diabetes Predictor Model  
