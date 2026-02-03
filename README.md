@@ -7,6 +7,12 @@ I enjoy building data-driven models, deploying them as interactive web applicati
 
 ## 🚀 Projects
 
+### ✈️ British Airways – Lounge Eligibility Modeling
+
+A business-focused data analytics project developed as part of the British Airways Data Science Virtual Experience (Forage). Historical flight and passenger data were analyzed using Excel pivot tables to design a scalable lookup table for forecasting lounge demand at Heathrow Terminal 3.
+
+🔗 Repository:
+
 ### 🤖 AI-Powered Career Guidance Agent (Agentic AI)
 
 A smart, AI-powered guidance platform designed to help students after 12th grade explore suitable undergraduate courses based on their interests, academic background, and career aspirations.  
