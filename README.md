@@ -12,9 +12,13 @@ This project aims to predict whether a customer will complete a flight booking b
 
 The solution combines data preprocessing, supervised machine learning, and model deployment through an interactive web application.
 
+
 🔗 Repository:
+
+
 https://github.com/JohriSumati-ops/BA-CUSTOMER-BOOKING-PREDICTOR-MODEL.git
----
+
+--
 ### ✈️ British Airways – Lounge Eligibility Modeling
 
 A business-focused data analytics project developed as part of the British Airways Data Science Virtual Experience (Forage). Historical flight and passenger data were analyzed using Excel pivot tables to design a scalable lookup table for forecasting lounge demand at Heathrow Terminal 3.
