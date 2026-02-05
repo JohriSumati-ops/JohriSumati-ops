@@ -13,7 +13,7 @@ This project aims to predict whether a customer will complete a flight booking b
 The solution combines data preprocessing, supervised machine learning, and model deployment through an interactive web application.
 
 🔗 Repository:
-
+https://github.com/JohriSumati-ops/BA-CUSTOMER-BOOKING-PREDICTOR-MODEL.git
 ---
 ### ✈️ British Airways – Lounge Eligibility Modeling
 
