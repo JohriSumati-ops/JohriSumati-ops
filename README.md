@@ -15,7 +15,6 @@ The solution combines data preprocessing, supervised machine learning, and model
 
 🔗 Repository:
 
-
 https://github.com/JohriSumati-ops/BA-CUSTOMER-BOOKING-PREDICTOR-MODEL.git
 
 --
