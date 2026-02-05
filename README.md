@@ -7,6 +7,14 @@ I enjoy building data-driven models, deploying them as interactive web applicati
 
 ## 🚀 Projects
 
+## ✈️ Customer Flight Booking Prediction (British Airways)
+This project aims to predict whether a customer will complete a flight booking based on their booking behavior, trip details, and optional service selections. The project was completed as part of the British Airways Data Science Virtual Experience Program, focusing on applying machine learning to real-world airline business problems.
+
+The solution combines data preprocessing, supervised machine learning, and model deployment through an interactive web application.
+
+🔗 Repository:
+
+
 ### ✈️ British Airways – Lounge Eligibility Modeling
 
 A business-focused data analytics project developed as part of the British Airways Data Science Virtual Experience (Forage). Historical flight and passenger data were analyzed using Excel pivot tables to design a scalable lookup table for forecasting lounge demand at Heathrow Terminal 3.
