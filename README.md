@@ -7,6 +7,23 @@ I enjoy building data-driven models, deploying them as interactive web applicati
 
 ## 🚀 Projects
 
+## 🏠 House Price Predictor – Machine Learning Model
+📌 Project Overview
+
+This project focuses on building a Machine Learning model to predict house prices based on key property features such as area, number of bedrooms, bathrooms, location factors, and other housing attributes. The goal was to understand how different variables influence real estate pricing and to develop a model capable of generating accurate price predictions.
+
+🎯 Problem Statement
+
+Real estate pricing is influenced by multiple interconnected factors, making manual estimation unreliable. This project aims to create a data-driven solution that predicts house prices using historical housing data.
+
+
+🔗 Repository:
+ https://lnkd.in/gFBpi_yw
+
+
+--- 
+
+
 ## ✈️ Customer Flight Booking Prediction (British Airways)
 This project aims to predict whether a customer will complete a flight booking based on their booking behavior, trip details, and optional service selections. The project was completed as part of the British Airways Data Science Virtual Experience Program, focusing on applying machine learning to real-world airline business problems.
 
