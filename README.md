@@ -176,7 +176,7 @@ Enhanced research, storytelling, and collaborative writing skills while working 
 
 **Bachelor of Technology (B.Tech)**  
 Computer Science Engineering (CSE)  
-Expected Graduation: **2029**
+Graduation: **2029**
 
 ---
 
