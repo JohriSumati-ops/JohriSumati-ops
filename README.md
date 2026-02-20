@@ -7,6 +7,19 @@ I enjoy building data-driven models, deploying them as interactive web applicati
 
 ## 🚀 Projects
 
+## ❤️ Heart Disease Detection – Linear Regression Approach
+
+This project focuses on building a Machine Learning model to predict the presence of heart disease using clinical and diagnostic features such as age, cholesterol levels, blood pressure, chest pain type, and other medical attributes.
+
+While heart disease prediction is fundamentally a classification problem, I intentionally used Linear Regression to explore model assumptions, bias–variance tradeoffs, and understand how a simple linear model behaves when applied beyond its ideal use case.
+
+The goal was not just accuracy — but deeper insight into model selection and limitations.
+
+🔗 Repository:
+https://github.com/JohriSumati-ops/HEART-DISEASE-DETECTION-LINEAR-REGRESSION.git
+
+---
+
 ## 🏠 House Price Predictor – Machine Learning Model
 This project focuses on building a Machine Learning model to predict house prices based on key property features such as area, number of bedrooms, bathrooms, location factors, and other housing attributes. The goal was to understand how different variables influence real estate pricing and to develop a model capable of generating accurate price predictions.
 
