@@ -1,215 +1,208 @@
-```md
-<h1 align="center">Hi 👋, I'm Sumati Johri</h1>
+# 👋 Hi, I'm Sumati Johri
 
-<h3 align="center">
-AI/ML Enthusiast • GSSoC’26 Contributor • TRYST IIT Delhi Hackathon Winner
-</h3>
+### AI/ML Enthusiast • GSSoC’26 Contributor • TRYST IIT Delhi Hackathon Winner
 
-<p align="center">
-🎓 B.Tech Computer Science Engineering Student (2029) <br>
-🤖 Building Intelligent Systems using Machine Learning, AI & IoT <br>
-🌱 Exploring Applied AI, Full-Stack Development & Open Source
-</p>
+🎓 **B.Tech Computer Science Engineering Student (2029)**
+🤖 Passionate about **Machine Learning, Applied AI, IoT & Intelligent Systems**
+🌱 Exploring **Full-Stack Development, Open Source & Scalable AI Systems**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sumati-johri-3223bb381/">LinkedIn</a> •
-<a href="https://github.com/JohriSumati-ops">GitHub</a>
-</p>
+🔗 **Connect with me:**
+
+* GitHub: https://github.com/JohriSumati-ops
+* LinkedIn: https://www.linkedin.com/in/sumati-johri-3223bb381/
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a **Computer Science Engineering student (B.Tech ’29)** passionate about building **AI-driven and user-centric solutions** that solve real-world problems.
+I am a **Computer Science Engineering student (B.Tech ’29)** passionate about building **AI-driven and user-centric solutions** that solve practical real-world problems.
 
 My work combines **Machine Learning, Applied AI, IoT, and Web Development** to create systems that are intelligent, practical, and impactful.
 
-I enjoy:
-- 🤖 Building Machine Learning models
-- 🌐 Developing ML-powered web applications
-- 🚀 Participating in hackathons & innovation challenges
-- 💡 Solving practical problems through technology
-- 🌱 Contributing to open source and continuously learning
+### I enjoy:
 
-Currently contributing as a **GSSoC’26 Contributor** while exploring scalable AI systems and modern software engineering practices.
+* 🤖 Building Machine Learning models
+* 🌐 Developing ML-powered web applications
+* 🚀 Participating in hackathons & innovation challenges
+* 💡 Solving practical problems through technology
+* 🌱 Contributing to Open Source
+
+Currently contributing as a **GSSoC’26 Contributor** while exploring scalable AI systems and modern software engineering.
 
 ---
 
-## 🏆 Achievements & Communities
+# 🏆 Achievements & Communities
 
-🏅 **Winner — Byte Runner Hackathon, TRYST 2026, IIT Delhi**  
+### 🏅 Winner — Byte Runner Hackathon, TRYST 2026, IIT Delhi
+
 Built and presented a winning solution during **TRYST 2026 at IIT Delhi**, strengthening innovation, rapid prototyping, and problem-solving skills under competitive constraints.
 
-🌟 **Special Mention — Frontend Odyssey Challenge, IIT Patna**  
+### 🌟 Special Mention — Frontend Odyssey Challenge, IIT Patna
+
 Received a **Special Mention** for **Mars Journey**, an immersive frontend web experience focused on UI/UX creativity and interaction design.
 
-🏆 **Top 11 Finish — HAPS Dal Mill Improvement Hackathon, NIT Rourkela**  
+### 🏆 Top 11 Finish — HAPS Dal Mill Improvement Hackathon, NIT Rourkela
+
 Worked on solving practical industrial challenges through structured problem-solving and solution ideation.
 
-🌱 **GirlScript Summer of Code 2026 (GSSoC’26) Contributor**  
+### 🌱 GirlScript Summer of Code 2026 (GSSoC’26) Contributor
+
 Actively contributing to open-source projects while improving collaboration, debugging, and software engineering practices.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+`Python` `HTML` `CSS` `JavaScript`
 
 ### Machine Learning & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+`Scikit-Learn` `Pandas` `NumPy`
+`Classification` `Regression`
+`Feature Engineering` `Model Evaluation`
 
 ### Deployment & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+`Streamlit` `Gradio` `Git` `GitHub` `Jupyter Notebook`
 
 ### Areas of Interest
-`Machine Learning`
-`Applied AI`
-`Agentic AI`
-`IoT Systems`
-`Predictive Analytics`
-`Frontend Development`
-`Open Source`
+
+`Machine Learning` `Applied AI` `Agentic AI` `IoT Systems`
+`Predictive Analytics` `Frontend Development` `Open Source`
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🚦 Smart IoT Street Light Simulation
+## 🚦 Smart IoT Street Light Simulation
+
 Smart street lighting system using **ESP8266/ESP32, IR sensors, ThingSpeak analytics, and Computer Vision** for vehicle detection and energy optimization.
 
 **Highlights**
-- Smart automation
-- Vehicle detection & counting
-- IoT monitoring
-- Energy efficiency optimization
 
-🔗 Repo:  
+* Smart automation
+* Vehicle detection & counting
+* IoT monitoring
+* Energy efficiency optimization
+
+🔗 Repository:
 https://github.com/JohriSumati-ops/IOT-STREET-LIGHT-SIMULATION
 
 ---
 
-### 🤖 AI-Powered Career Guidance Agent
-An **Agentic AI platform** helping students after Class 12 explore suitable undergraduate pathways based on interests, aspirations, and academic preferences.
+## 🤖 AI-Powered Career Guidance Agent
 
-⭐ Rated **4.6/5 by users**
+An **Agentic AI platform** helping students after Class 12 explore suitable undergraduate pathways based on interests and aspirations.
+
+⭐ **Rated 4.6/5 by users**
 
 **Highlights**
-- Agentic AI workflow design
-- Personalized guidance
-- User-centric academic support
 
-🔗 Repo:  
+* Agentic AI workflow design
+* Personalized guidance
+* User-centric academic support
+
+🔗 Repository:
 https://github.com/JohriSumati-ops/AI-Career-Guidance-Agent
 
-🔗 Live Agent:  
+🔗 Live Agent:
 https://agent.ai/profile/pt5pkd2mnav9v292
 
 ---
 
-### ✈️ British Airways Customer Booking Predictor
+## ✈️ British Airways Customer Booking Predictor
+
 Machine Learning model predicting whether customers complete flight bookings based on booking behavior and travel preferences.
 
-**Tech Used**
+**Tech Used:**
 `Machine Learning` `Data Processing` `Streamlit`
 
-🔗 Repo:  
+🔗 Repository:
 https://github.com/JohriSumati-ops/BA-CUSTOMER-BOOKING-PREDICTOR-MODEL
 
 ---
 
-### 💳 Credit Card Fraud Detection System
-End-to-end Machine Learning project detecting fraudulent financial transactions using supervised learning on highly imbalanced datasets.
+## 💳 Credit Card Fraud Detection System
+
+Machine Learning project detecting fraudulent financial transactions using supervised learning on imbalanced datasets.
 
 **Highlights**
-- Fraud prediction model
-- Gradio deployment
-- Model persistence using `dill`
 
-🔗 Repo:  
+* Fraud prediction model
+* Gradio deployment
+* Model persistence using `dill`
+
+🔗 Repository:
 https://github.com/JohriSumati-ops/CREDIT-CARD-FRAUD-DETECTION
 
 ---
 
-### ❤️ Heart Disease Detection System
-Healthcare prediction project using **Linear Regression intentionally on a classification problem** to understand model assumptions, limitations, and bias–variance tradeoffs.
+## ❤️ Heart Disease Detection System
 
-🔗 Repo:  
+Healthcare prediction project using **Linear Regression intentionally on a classification problem** to study model assumptions and limitations.
+
+🔗 Repository:
 https://github.com/JohriSumati-ops/HEART-DISEASE-DETECTION-LINEAR-REGRESSION
 
 ---
 
-### 🚀 Mars Journey
-An immersive frontend web experience focused on storytelling, UI/UX, and interactive design, created during the **Frontend Odyssey Challenge at IIT Patna**.
+## 🚀 Mars Journey
 
-🔗 Repo:  
+An immersive frontend web experience focused on storytelling, UI/UX, and interaction design.
+
+🔗 Repository:
 https://github.com/JohriSumati-ops/mars-journey
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🤖 AI/ML Intern — InternPe
+## 🤖 AI/ML Intern — InternPe
+
 Worked on:
-- Data preprocessing
-- Model development & evaluation
-- Machine learning workflows
-- Practical ML problem solving
 
----
+* Data preprocessing
+* Model development & evaluation
+* Machine learning workflows
+* Practical ML problem solving
 
-### ✍️ Content Writer — WeDidIt
-Created structured and engaging digital content while strengthening communication and storytelling skills.
+## ✍️ Content Writer — WeDidIt
 
----
+Created structured and engaging digital content while strengthening communication skills.
 
-### ✍️ Content Writer — InAmigos Foundation
+## ✍️ Content Writer — InAmigos Foundation
+
 Worked on collaborative writing, research-driven content, and organizational outreach initiatives.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Advanced Machine Learning
-- Hyperparameter Tuning
-- Scalable AI Systems
-- Full Stack Development
-- Open Source Engineering
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohriSumati-ops&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohriSumati-ops&theme=tokyonight" />
-</p>
+* Advanced Machine Learning
+* Hyperparameter Tuning
+* Scalable AI Systems
+* Full Stack Development
+* Open Source Engineering
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Stats
 
-💼 LinkedIn  
-https://www.linkedin.com/in/sumati-johri-3223bb381/
+![Sumati's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohriSumati-ops\&show_icons=true\&theme=tokyonight)
 
-📫 Open to:
-- AI/ML Collaborations  
-- Open Source Contributions  
-- Hackathons  
-- Learning Opportunities
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohriSumati-ops\&theme=tokyonight)
 
 ---
 
-⭐ *“Building technology that is intelligent, practical, and meaningful.”*
-```
+# 🤝 Open to Collaborate On
+
+* AI/ML Projects
+* Open Source Contributions
+* Hackathons
+* Innovative Problem Solving
+
+---
+
+⭐ **"Building technology that is intelligent, practical, and meaningful."**
