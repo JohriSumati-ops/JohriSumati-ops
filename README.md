@@ -2,47 +2,170 @@
 
 ## 🤖 Applied AI Developer | Machine Learning Engineer | AI Product Builder
 
-🎓 B.Tech Computer Science Engineering Student (2029)  
 🏆 TRYST IIT Delhi Hackathon Winner  
+🤖 Building AI-powered products and intelligent systems  
+🎓 B.Tech Computer Science Engineering Student (2029)  
 🌱 GSSoC'26 Contributor  
 
-I build **AI-powered applications, intelligent systems, and user-centric digital products** using **Machine Learning, Generative AI, Agentic AI, and Full-Stack Development**.
+I design and build **AI-powered applications, intelligent automation systems, and user-centric digital products** using:
 
-My work focuses on transforming ideas into practical solutions — from AI assistants and intelligent automation systems to scalable AI applications and interactive digital experiences.
+- Machine Learning
+- Generative AI
+- Agentic AI
+- Large Language Models
+- Full-Stack Development
+
+My focus is transforming ideas into practical technology solutions — from AI assistants and intelligent platforms to scalable AI applications and interactive digital experiences.
 
 ---
 
-# 🚀 What I Build
+# ⭐ Featured Work
 
-I specialize in developing:
+## 🧠 Talent Intelligence Engine
 
-## 🤖 AI Applications
+### AI-powered recruitment intelligence platform
 
-- AI assistants and copilots
-- Agentic AI workflows
-- Retrieval-Augmented Generation (RAG) systems
-- AI-powered decision support platforms
-- LLM-based applications
+An intelligent hiring system designed to analyze job descriptions, evaluate candidates, rank profiles, and provide explainable hiring insights.
 
-## 🧠 Machine Learning Solutions
+**Core Capabilities**
 
-- Predictive analytics systems
-- Classification and regression models
-- Data-driven insights
-- ML model development and deployment
+- Job description understanding
+- Candidate intelligence analysis
+- Semantic candidate search
+- AI-based ranking
+- Explainable recommendations
+- Recruiter assistance
 
-## 🌐 AI-Powered Web Applications
+**Technologies**
 
-- Full-stack AI products
-- Intelligent dashboards
-- Interactive user experiences
-- Startup MVP prototypes
+`Python` `FastAPI` `FAISS` `Sentence Transformers` `LLMs` `Next.js`
 
-## ⚡ AI Automation Systems
+**Domain**
 
-- Workflow automation
-- Business process optimization
-- Intelligent productivity tools
+HRTech | Enterprise AI | Talent Analytics
+
+---
+
+## 🔬 Multi-Agent Research Assistant
+
+### Autonomous AI research workflow system
+
+A multi-agent platform designed to help students, researchers, and professionals discover, analyze, and organize knowledge.
+
+**Core Capabilities**
+
+- Research planning
+- Intelligent retrieval
+- Paper analysis
+- Knowledge organization
+- AI-assisted insights
+
+**Core Concepts**
+
+`Agentic AI`  
+`Multi-Agent Systems`  
+`RAG`  
+`Vector Search`  
+`LLM Orchestration`
+
+**Domain**
+
+Research AI | Knowledge Systems | AI Automation
+
+---
+
+## 💰 RUPIQ AI
+
+### AI-powered personal finance intelligence platform
+
+Built for the **Economic Times GenAI Hackathon**.
+
+An intelligent financial assistant helping users understand and plan:
+
+- Financial health
+- FIRE strategies
+- Tax optimization
+- Investment decisions
+
+**Features**
+
+- AI-generated financial insights
+- User authentication
+- Personalized reports
+- Database-backed profiles
+
+**Technologies**
+
+`JavaScript` `Supabase` `Groq AI` `Vite`
+
+**Domain**
+
+FinTech AI | Financial Intelligence
+
+---
+
+## 🏰 The Citadel
+
+### AI-powered career decision support platform
+
+An agentic AI system helping students navigate career and competitive examination choices.
+
+**Features**
+
+- AI counselor
+- Career discovery
+- Personalized pathways
+- Interactive storytelling experience
+
+**Technologies**
+
+`React` `Tailwind CSS` `Framer Motion` `Groq API`
+
+**Domain**
+
+EdTech AI | Decision Support Systems
+
+---
+
+## 🌱 EcoTrack
+
+### ClimateTech sustainability intelligence platform
+
+A sustainability-focused platform designed to help users understand environmental impact and build better habits.
+
+**Focus Areas**
+
+- Sustainability tracking
+- Environmental awareness
+- Impact insights
+- Behaviour-driven recommendations
+
+**Domain**
+
+ClimateTech | Sustainability Intelligence
+
+---
+
+## 🚀 Mars Journey
+
+### Interactive cinematic web experience
+
+A frontend experience transforming traditional websites into immersive digital journeys.
+
+**Highlights**
+
+- Story-driven interface
+- Scroll-based animations
+- Interactive experiences
+- Responsive design
+
+**Technologies**
+
+`React` `Vite` `Tailwind CSS` `Framer Motion`
+
+**Domain**
+
+Creative Frontend | Interactive Experiences
 
 ---
 
@@ -51,7 +174,9 @@ I specialize in developing:
 ## 🥇 Winner — Byte Runner Hackathon  
 ### TRYST 2026 | IIT Delhi
 
-Built and presented an innovative technology solution during TRYST 2026, gaining experience in:
+Built and presented an innovative technology solution during TRYST 2026.
+
+Experience gained:
 
 - Rapid prototyping
 - Product development
@@ -90,168 +215,41 @@ Contributing to open-source projects while improving:
 
 ---
 
-# ⭐ Featured AI Projects
+# 🚀 What I Build
 
-## 🧠 Talent Intelligence Engine
+## 🤖 AI Applications
 
-### AI-powered recruitment intelligence platform
-
-An intelligent hiring system designed to analyze job descriptions, evaluate candidates, rank profiles, and provide explainable hiring insights.
-
-### Key Capabilities
-
-- Job description understanding
-- Candidate intelligence analysis
-- Semantic similarity search
-- AI-based candidate ranking
-- Explainable recommendations
-- Recruiter assistance
-
-### Technologies
-
-`Python` `FastAPI` `Sentence Transformers` `FAISS` `LLMs` `Next.js`
-
-### Potential Applications
-
-- Recruitment platforms
-- HR automation systems
-- Enterprise hiring solutions
-- Talent analytics platforms
+- AI assistants and copilots
+- Agentic AI workflows
+- Retrieval-Augmented Generation (RAG) systems
+- AI-powered decision support platforms
+- LLM-based applications
 
 ---
 
-# 🔬 Multi-Agent Research Assistant
+## 🧠 Machine Learning Solutions
 
-### Autonomous AI research workflow system
-
-A multi-agent platform designed to assist students, researchers, and professionals in discovering, analyzing, and organizing knowledge.
-
-### Key Capabilities
-
-- Research planning
-- Intelligent retrieval
-- Paper analysis
-- Knowledge organization
-- AI-assisted insights
-
-### Core Concepts
-
-`Agentic AI`  
-`Multi-Agent Systems`  
-`RAG`  
-`Vector Search`  
-`LLM Orchestration`
-
-### Potential Applications
-
-- Research organizations
-- Educational platforms
-- R&D teams
-- Knowledge management systems
+- Predictive analytics systems
+- Classification and regression models
+- Data-driven insights
+- ML model development and deployment
 
 ---
 
-# 💰 RUPIQ AI
+## 🌐 AI-Powered Web Applications
 
-### AI-powered financial planning assistant
-
-Built for the **Economic Times GenAI Hackathon**.
-
-An intelligent financial companion helping users understand and plan:
-
-- Financial health
-- FIRE strategies
-- Tax optimization
-- Investment decisions
-
-### Features
-
-- AI-generated financial insights
-- User authentication
-- Personalized reports
-- Database-backed user profiles
-
-### Technologies
-
-`JavaScript` `Supabase` `Groq AI` `Vite`
-
-### Potential Applications
-
-- FinTech platforms
-- Personal finance assistants
-- Financial education products
-- Banking support tools
+- Full-stack AI products
+- Intelligent dashboards
+- SaaS prototypes
+- Interactive user experiences
 
 ---
 
-# 🏰 The Citadel
+## ⚡ AI Automation Systems
 
-### AI-powered career decision support platform
-
-An agentic AI system helping students navigate career and competitive examination choices.
-
-### Features
-
-- AI counselor
-- Career discovery
-- Personalized pathways
-- Interactive storytelling experience
-
-### Technologies
-
-`React` `Tailwind CSS` `Framer Motion` `Groq API`
-
-### Potential Applications
-
-- EdTech platforms
-- Student counselling systems
-- Career guidance products
-
----
-
-# 🤖 AI Career Guidance Agent
-
-### Personalized AI counselor for students
-
-An Agentic AI application helping students discover suitable educational pathways based on their:
-
-- Interests
-- Goals
-- Aspirations
-
-⭐ User Rating: 4.6/5
-
-### Focus Areas
-
-- AI reasoning workflows
-- Personalized recommendations
-- User-centric AI design
-
----
-
-# 🚀 Mars Journey
-
-### Interactive cinematic web experience
-
-A frontend experience that transforms traditional websites into immersive digital journeys.
-
-### Highlights
-
-- Story-driven interface
-- Scroll-based animations
-- Interactive experiences
-- Responsive design
-
-### Technologies
-
-`React` `Vite` `Tailwind CSS` `Framer Motion`
-
-### Potential Applications
-
-- Product launches
-- Brand experiences
-- Marketing websites
-- Creative frontend solutions
+- Workflow automation
+- Business process optimization
+- Intelligent productivity tools
 
 ---
 
@@ -264,6 +262,8 @@ A frontend experience that transforms traditional websites into immersive digita
 `HTML`  
 `CSS`
 
+---
+
 ## Artificial Intelligence
 
 `Machine Learning`  
@@ -273,6 +273,8 @@ A frontend experience that transforms traditional websites into immersive digita
 `RAG Systems`  
 `Prompt Engineering`
 
+---
+
 ## Machine Learning
 
 `Scikit-Learn`  
@@ -280,6 +282,8 @@ A frontend experience that transforms traditional websites into immersive digita
 `NumPy`  
 `Feature Engineering`  
 `Model Evaluation`
+
+---
 
 ## Development
 
@@ -289,6 +293,8 @@ A frontend experience that transforms traditional websites into immersive digita
 `Streamlit`  
 `Gradio`
 
+---
+
 ## AI Infrastructure
 
 `FAISS`  
@@ -296,12 +302,35 @@ A frontend experience that transforms traditional websites into immersive digita
 `LLM APIs`  
 `AI Workflows`
 
+---
+
 ## Tools
 
 `Git`  
 `GitHub`  
 `Jupyter Notebook`  
 `Vercel`
+
+---
+
+# 🤝 Why Work With Me
+
+I combine:
+
+✅ AI engineering  
+✅ Product thinking  
+✅ Full-stack development  
+✅ Rapid prototyping experience  
+✅ Hackathon-driven problem solving  
+
+to transform ideas into working AI-powered applications.
+
+I focus on building systems that are:
+
+- Technically strong
+- User-focused
+- Practical
+- Scalable
 
 ---
 
@@ -316,17 +345,23 @@ Available for:
 - RAG-based applications
 - AI agents
 
+---
+
 ## 🧠 Machine Learning Solutions
 
 - Prediction systems
 - Data analysis
 - ML model deployment
 
+---
+
 ## 🌐 AI Web Applications
 
 - AI-powered SaaS prototypes
 - Intelligent dashboards
 - Full-stack AI products
+
+---
 
 ## ⚡ AI Automation
 
